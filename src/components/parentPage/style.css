@@ -1,0 +1,17 @@
+.wrapper {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+}
+
+.wrapper button {
+    height: 50px;
+    width: 200px;
+    background: linear-gradient(90deg, #093079 0%, #efff00 100%);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
